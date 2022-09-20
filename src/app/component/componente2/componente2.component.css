@@ -1,0 +1,8 @@
+.example-card {
+  max-width: 700px;
+}
+
+.example-header-image {
+  background-image: url('https://www.chevrolet.com.ar/content/dam/chevrolet/mercosur/brazil/portuguese/vdc-collections/2022/cars/cruze-sport6-rs/02-images/chevrolet-brasil-cruze-rs.jpg?imwidth=419');
+  background-size: cover;
+}
