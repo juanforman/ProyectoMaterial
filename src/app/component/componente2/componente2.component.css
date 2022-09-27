@@ -6,3 +6,11 @@
   background-image: url('https://www.chevrolet.com.ar/content/dam/chevrolet/mercosur/brazil/portuguese/vdc-collections/2022/cars/cruze-sport6-rs/02-images/chevrolet-brasil-cruze-rs.jpg?imwidth=419');
   background-size: cover;
 }
+.example-header-image2 {
+  background-image: url('https://www.chevrolet.com.ar/content/dam/chevrolet/mercosur/argentina/espanol/vdc-collections/2021/pickups-and-trucks/nueva-s10-hc/01-images/s10-high-country-flyout.jpg?imwidth=1500');
+  background-size: cover;
+}
+.example-header-image3 {
+  background-image: url('https://www.chevrolet.com.ar/content/dam/chevrolet/mercosur/argentina/espanol/vdc-collections/2018/performance/camaro/camaro-coupe/01-images/novo-chevrolet-camaro-coupe.jpg?imwidth=1500"');
+  background-size: cover;
+}
